@@ -1,0 +1,5 @@
+.DS_Store
+ips_spike_data
+.*.swp
+.*.swo
+__pycache__
