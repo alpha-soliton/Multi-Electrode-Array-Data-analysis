@@ -4,3 +4,4 @@ ips_spike_data
 .*.swo
 __pycache__
 .ipynb_checkpoints
+/IPython-notebook-extensions
